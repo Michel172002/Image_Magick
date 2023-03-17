@@ -5,3 +5,6 @@ Programa criado para cortar imagens para ser utilizado no trabalho de Programaç
 $ apt-get install libmagickwand-dev
 
 $ pip install Wand
+
+# Link Util
+https://docs.wand-py.org/en/0.6.11/
